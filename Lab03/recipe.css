@@ -1,0 +1,33 @@
+body {
+    background-image: url('filipinoIngredients.jpeg');
+    background-repeat: no-repeat;
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5); 
+    border-radius: 10px; 
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+h2 {
+    color: #ff0015;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin-left: 20px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
